@@ -1,8 +1,0 @@
-.box {
-  box-shadow: 2px 3px 6px #999;
-  cursor: pointer;
-}
-
-.box:hover {
-  box-shadow: 6px 9px 18px #999;
-}
